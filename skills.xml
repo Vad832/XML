@@ -1,9 +1,9 @@
 <Skills>
-<terminal_linux />
-<javaScript />
-<postman />
-<GitHub />
-<sql />
-<theory_of_testing_software />
-<client_server_architecture />
+  <hardskills>terminal_linux</hardskills>
+  <hardskills>javaScript</hardskills>
+  <hardskills>postman</hardskills>
+  <hardskills>GitHub</hardskills>
+  <hardskills>sql</hardskills>
+  <hardskills>theory_of_testing_software</hardskills>
+  <hardskills>client_server_architecture</hardskills>
 </Skills>
