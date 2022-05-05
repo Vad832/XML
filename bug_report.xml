@@ -1,10 +1,10 @@
 <bug_report>
-    <id>1<\id>
+    <id>1</id>
     <summary>Wrong spelling 'sklls.xml' in GIT Homework 1 XML in item #31</summary>
     <environment>
-      <operating_system>Windows 10 Pro 21H2<\operating_system>
-      <app>Telegram 3.7.3<\app>
-    <\environment>
+      <operating_system>Windows 10 Pro 21H2</operating_system>
+      <app>Telegram 3.7.3</app>
+    </environment>
     <steps_to_reproduce>
       <1>open telegram channel '29_QA_Free_Channel'</1>
       <2>find 'GIT Homework 1' post</2>
