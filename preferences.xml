@@ -1,5 +1,7 @@
-<favoriteMovie>The Lord Of The Rings</favoriteMovie>
-		<favoriteSeries>The Witcher (2002)</favoriteSeries>
-		<favoriteFood>Borscht</favoriteFood>
-		<favoriteSeason>Winter</favoriteSeason>
-		<visitCountry>Sweden</visitCountry>
+<preferences>
+	<favoriteMovie>The Lord Of The Rings</favoriteMovie>
+	<favoriteSeries>The Witcher (2002)</favoriteSeries>
+	<favoriteFood>Borscht</favoriteFood>
+	<favoriteSeason>Winter</favoriteSeason>
+	<visitCountry>Sweden</visitCountry>
+</preferences>
