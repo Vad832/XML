@@ -1,12 +1,17 @@
 <bug_report>
-  <summary>"Wrong spelling 'sklls.xml' in GIT Homework 1 XML in item #31"</summary>
-  <steps_to_reproduce>
-    <1>"open telegram channel '29_QA_Free_Channel'"</1>
-    <2>"find 'GIT Homework 1' post"</2>
-    <3>"pay attention to item #31 in XML part"</3> 
-  </steps_to_reproduce>
-  <actual_result>"spelling 'sklls.xml'"</actual_result>
-<expected_result>"spelling 'skills.xml'"</expected_result>
-  <priority>"low"</priority>
-  <severity>"trivial"</severity>
+    <id>1<\id>
+    <summary>Wrong spelling 'sklls.xml' in GIT Homework 1 XML in item #31</summary>
+    <environment>
+      <operating_system>Windows 10 Pro 21H2<\operating_system>
+      <app>Telegram 3.7.3<\app>
+    <\environment>
+    <steps_to_reproduce>
+      <1>open telegram channel '29_QA_Free_Channel'</1>
+      <2>find 'GIT Homework 1' post</2>
+      <3>pay attention to item #31 in XML part</3> 
+    </steps_to_reproduce>
+    <actual_result>spelling 'sklls.xml'</actual_result>
+    <expected_result>spelling 'skills.xml'</expected_result>
+    <priority>low</priority>
+    <severity>trivial</severity>
 </bug_report>
